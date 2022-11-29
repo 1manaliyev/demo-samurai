@@ -1,0 +1,17 @@
+.selectedPage {
+   font-weight: bold;
+}
+
+.paginator{
+   display: flex;
+   align-items: center;
+}
+
+.paginator span{
+   padding: 0 5px;
+   border: 1px solid #000;
+}
+
+.paginator button{
+   height: 100%;
+}
